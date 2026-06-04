@@ -9,7 +9,6 @@ Beyond governance, I apply Python and SQL to build data pipelines, time series m
 - 🌍 Based in **Toronto, Ontario**
 - 💼 Open to **Data Governance · Data Quality · Data Stewardship · Data Analyst** roles
 - 🧠 Preparing for **CDMP Foundation — DAMA International**
-- ⚡ Authorized to work in Canada — no sponsorship required
 - ✉️ [dramkrishna19@gmail.com](mailto:dramkrishna19@gmail.com)
 
 ---
@@ -99,13 +98,6 @@ Built the data collection pipeline and ML model for an AI-powered bird species m
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Ram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rkdhakal&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rkdhakal&layout=compact&hide_border=true)
 
 ---
 
