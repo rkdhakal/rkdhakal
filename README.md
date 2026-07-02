@@ -19,10 +19,10 @@ I bring that same rigor to the projects below: full DQ rule catalogs, lineage di
 
 ---
 
-### 🏛️ [Housing Data Governance & Quality Framework](https://github.com/rkdhakal/cmhc-housing-data-governance)
-> *Enterprise-grade data governance framework — the flagship project in this portfolio*
+### 🏛️ [Canadian Housing Data Governance & Quality Framework](https://github.com/rkdhakal/canadian-housing-data-governance)
+> *Solo project, designed and built end to end — the flagship project in this portfolio*
 
-A complete, production-style data governance implementation applied to CMHC housing data (**10,800 records · 10 Canadian provinces · 2018–2023**), built to mirror real-world tools like Informatica IDMC and Collibra.
+Enterprise governance programs follow well-established patterns — metadata catalogs, lineage, stewardship, DQ rule engines. I wanted to prove I could own that whole lifecycle myself, so I built one, end to end, on a real public Canadian housing dataset (**10,800 records · 10 provinces · 2018–2023**).
 
 **Governance deliverables:**
 | Component | Detail |
@@ -36,7 +36,7 @@ A complete, production-style data governance implementation applied to CMHC hous
 | **Regulatory Compliance** | PIPEDA and OSFI B-20 applicability assessment |
 | **Dashboard** | Streamlit Cloud — executive scorecard, exception explorer, live contract validator |
 
-**🔗 [Explore this project →](https://github.com/rkdhakal/cmhc-housing-data-governance)**
+**🔗 [Explore this project →](https://github.com/rkdhakal/canadian-housing-data-governance)**
 
 ---
 
