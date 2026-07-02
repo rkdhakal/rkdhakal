@@ -1,12 +1,14 @@
 # Hi, I'm Ram Krishna Dhakal 👋
 
-### Data Quality & Governance Analyst | Toronto, ON
+### Data Quality & Governance Analyst | Canada
 
-I build and maintain the systems that make data trustworthy. My core expertise is in **enterprise data governance** — designing and deploying data quality rules, managing metadata catalogs, documenting data lineage, authoring data contracts, and driving data stewardship across business domains. I have hands-on experience with **Informatica IDMC**, **Collibra Data Intelligence Cloud**, and the **DAMA-DMBOK framework** in a federal regulatory environment.
+It started with a bad number. During my Data Quality Analyst internship at **CMHC** (Sept–Dec 2025), I watched a single bad housing-starts record work its way toward federal GDP reporting and mortgage insurance thresholds before anyone caught it. That's the moment data governance stopped being an abstract discipline for me and became the thing I wanted to build a career on — not just cleaning data, but designing the rules, catalogs, and stewardship structures that catch problems like that before they reach a policy decision.
 
-Beyond governance, I apply Python and SQL to build data pipelines, time series models, and dashboards that complement my governance work.
+Working hands-on with **Informatica IDMC**, **Collibra Data Intelligence Cloud**, and **Databricks SQL** inside a federal regulatory environment taught me that governance is equal parts technical and human — the SQL rules matter, but so does knowing exactly who owns a data element and who gets called when it breaks.
 
-- 🌍 Based in **Toronto, Ontario**
+I bring that same rigor to the projects below: full DQ rule catalogs, lineage diagrams, and stewardship RACI matrices, built with open-source tools to mirror what enterprise platforms do. Beyond governance, I also apply Python and SQL to time series forecasting and ML pipelines — understanding how data gets used downstream makes me better at protecting it upstream.
+
+- 🌍 Based in **Toronto, Ontario** · open to roles **across Canada**
 - 💼 Open to **Data Governance · Data Quality · Data Stewardship · Data Analyst** roles
 - 🧠 Preparing for **CDMP Foundation — DAMA International**
 - ✉️ [dramkrishna19@gmail.com](mailto:dramkrishna19@gmail.com)
@@ -26,8 +28,8 @@ A complete, production-style data governance implementation applied to CMHC hous
 | Component | Detail |
 |---|---|
 | **Data Quality Rules** | 15 SQL-based rules across 5 dimensions — completeness, validity, uniqueness, accuracy, consistency |
-| **DQ Score** | 99.45% overall · 9 PASS · 6 WARN · 0 FAIL |
-| **Exception Management** | 884 exceptions · 424 auto-remediated · 337 escalated with root cause analysis by province and dwelling type |
+| **DQ Score** | 99.45% overall (Grade A) · 9 PASS · 6 WARN · 0 FAIL |
+| **Exception Management** | 884 exceptions · 424 auto-remediated · 460 escalated with root cause analysis by province and dwelling type |
 | **Critical Data Elements** | 6 CDEs with column-level data lineage across a 5-layer source-to-consumption pipeline |
 | **Metadata Catalog** | Data dictionary · Business glossary · Sensitivity classifications · Stewardship RACI matrix |
 | **Data Contract** | YAML-based producer-consumer agreement with tiered SLA thresholds and 15 mapped DQ rules |
