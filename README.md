@@ -2,11 +2,11 @@
 
 ### Data Quality & Governance Analyst | Canada
 
-It started with a bad number. During my Data Quality Analyst internship at **CMHC** (Sept–Dec 2025), I watched a single bad housing-starts record work its way toward federal GDP reporting and mortgage insurance thresholds before anyone caught it. That's the moment data governance stopped being an abstract discipline for me and became the thing I wanted to build a career on — not just cleaning data, but designing the rules, catalogs, and stewardship structures that catch problems like that before they reach a policy decision.
+It started with a bad number. During my Data Quality Analyst internship at **CMHC** (Sept–Dec 2025), I watched a single bad record work its way through a live reporting pipeline before anyone caught it. That's the moment data governance stopped being an abstract discipline for me and became the thing I wanted to build a career on - not just cleaning data, but designing the rules, catalogs, and stewardship structures that catch problems like that before they reach a decision-maker.
 
-Working hands-on with **Informatica IDMC**, **Collibra Data Intelligence Cloud**, and **Databricks SQL** inside a federal regulatory environment taught me that governance is equal parts technical and human — the SQL rules matter, but so does knowing exactly who owns a data element and who gets called when it breaks.
+Working hands-on with **Informatica IDMC**, **Collibra Data Intelligence Cloud**, and **Databricks SQL** inside a federal regulatory environment taught me that governance is equal parts technical and human - the SQL rules matter, but so does knowing exactly who owns a data element and who gets called when it breaks.
 
-I bring that same rigor to the projects below: full DQ rule catalogs, lineage diagrams, and stewardship RACI matrices, built with open-source tools to mirror what enterprise platforms do. Beyond governance, I also apply Python and SQL to time series forecasting and ML pipelines — understanding how data gets used downstream makes me better at protecting it upstream.
+Since then, I've built out that same rigor independently, on my own time and on public datasets - full DQ rule catalogs, lineage diagrams, and stewardship RACI matrices, using open-source tools to mirror what enterprise platforms do. Beyond governance, I also apply Python and SQL to time series forecasting and ML pipelines — understanding how data gets used downstream makes me better at protecting it upstream.
 
 - 🌍 Based in **Toronto, Ontario** · open to roles **across Canada**
 - 💼 Open to **Data Governance · Data Quality · Data Stewardship · Data Analyst** roles
